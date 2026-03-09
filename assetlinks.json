@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.revemarketing.clientappwithreve",
+    "sha256_cert_fingerprints":
+    ["2D:50:3B:AF:7D:CB:76:73:C5:A8:9C:6F:A0:9F:BB:33:9A:C5:B9:34:BD:BD:29:DD:DA:D6:B9:C1:60:59:93:37"]
+  }
+}]
