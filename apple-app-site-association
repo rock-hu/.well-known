@@ -1,3 +1,11 @@
 {
-
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "TEAMID.com.acuelert.app",
+        "paths": ["*"]
+      }
+    ]
+  }
 }
